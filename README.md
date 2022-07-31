@@ -1,2 +1,2 @@
-# BizDays_Agileo
-Epitech_MSc_Pro_Semester_9_BizDays_Agileo
+# Epitech_MSc_Pro_Semester_9_BizDays_Agileo
+Agile Scrum project management simulator
